@@ -1,0 +1,14 @@
+C:\Users\CGreene1\source\repos\GCDevBuildUsedCarLotLab\GCDevBuildUsedCarLotLab\bin\Debug\netcoreapp3.1\GCDevBuildUsedCarLotLab.exe
+C:\Users\CGreene1\source\repos\GCDevBuildUsedCarLotLab\GCDevBuildUsedCarLotLab\bin\Debug\netcoreapp3.1\GCDevBuildUsedCarLotLab.deps.json
+C:\Users\CGreene1\source\repos\GCDevBuildUsedCarLotLab\GCDevBuildUsedCarLotLab\bin\Debug\netcoreapp3.1\GCDevBuildUsedCarLotLab.runtimeconfig.json
+C:\Users\CGreene1\source\repos\GCDevBuildUsedCarLotLab\GCDevBuildUsedCarLotLab\bin\Debug\netcoreapp3.1\GCDevBuildUsedCarLotLab.runtimeconfig.dev.json
+C:\Users\CGreene1\source\repos\GCDevBuildUsedCarLotLab\GCDevBuildUsedCarLotLab\bin\Debug\netcoreapp3.1\GCDevBuildUsedCarLotLab.dll
+C:\Users\CGreene1\source\repos\GCDevBuildUsedCarLotLab\GCDevBuildUsedCarLotLab\bin\Debug\netcoreapp3.1\GCDevBuildUsedCarLotLab.pdb
+C:\Users\CGreene1\source\repos\GCDevBuildUsedCarLotLab\GCDevBuildUsedCarLotLab\obj\Debug\netcoreapp3.1\GCDevBuildUsedCarLotLab.csproj.AssemblyReference.cache
+C:\Users\CGreene1\source\repos\GCDevBuildUsedCarLotLab\GCDevBuildUsedCarLotLab\obj\Debug\netcoreapp3.1\GCDevBuildUsedCarLotLab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CGreene1\source\repos\GCDevBuildUsedCarLotLab\GCDevBuildUsedCarLotLab\obj\Debug\netcoreapp3.1\GCDevBuildUsedCarLotLab.AssemblyInfoInputs.cache
+C:\Users\CGreene1\source\repos\GCDevBuildUsedCarLotLab\GCDevBuildUsedCarLotLab\obj\Debug\netcoreapp3.1\GCDevBuildUsedCarLotLab.AssemblyInfo.cs
+C:\Users\CGreene1\source\repos\GCDevBuildUsedCarLotLab\GCDevBuildUsedCarLotLab\obj\Debug\netcoreapp3.1\GCDevBuildUsedCarLotLab.csproj.CoreCompileInputs.cache
+C:\Users\CGreene1\source\repos\GCDevBuildUsedCarLotLab\GCDevBuildUsedCarLotLab\obj\Debug\netcoreapp3.1\GCDevBuildUsedCarLotLab.dll
+C:\Users\CGreene1\source\repos\GCDevBuildUsedCarLotLab\GCDevBuildUsedCarLotLab\obj\Debug\netcoreapp3.1\GCDevBuildUsedCarLotLab.pdb
+C:\Users\CGreene1\source\repos\GCDevBuildUsedCarLotLab\GCDevBuildUsedCarLotLab\obj\Debug\netcoreapp3.1\GCDevBuildUsedCarLotLab.genruntimeconfig.cache
