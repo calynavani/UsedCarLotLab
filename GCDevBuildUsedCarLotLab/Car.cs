@@ -31,7 +31,7 @@ namespace GCDevBuildUsedCarLotLab
             string output = $"Make: {Make, -13}\t";
             output += $"Model: {Model, -16}\t";
             output += $"Year: {Year,-5}\t";
-            output += $"Price: {Price, -14:c}\t";
+            output += $"Price: {Price, -10:c}\t";
 
             return output;
 

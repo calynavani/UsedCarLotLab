@@ -11,11 +11,11 @@ namespace GCDevBuildUsedCarLotLab
         public CarLot()
         {
             Cars.Add(new NewCars("Telsa", "X", 2021, 79990.00));
-            Cars.Add(new NewCars("Lamborghini", "Huracan", 2021, 212266.00));
-            Cars.Add(new NewCars("GMC Sierra", "3500 HD Denali", 2022, 67200.00));
-            Cars.Add(new UsedCars("Ponitac", "GT G6", 2006, 3870.00, 250000.00));
-            Cars.Add(new UsedCars("Volkswagen", "Beetle", 2007, 5000.00, 80000.00));
-            Cars.Add(new UsedCars("Fiat", "500X", 2018, 32000.00, 60000.00));
+            Cars.Add(new NewCars("Lamborghini", "Huracan", 2021, 212266.00f));
+            Cars.Add(new NewCars("GMC Sierra", "3500 HD Denali", 2022, 67200.00f));
+            Cars.Add(new UsedCars("Ponitac", "GT G6", 2006, 3870.00, 250000.00f));
+            Cars.Add(new UsedCars("Volkswagen", "Beetle", 2007, 5000.00, 80000.00f));
+            Cars.Add(new UsedCars("Fiat", "500X", 2018, 32000.00, 60000.00f));
         }
 
         public void AddCar()
@@ -40,6 +40,8 @@ namespace GCDevBuildUsedCarLotLab
                 Console.WriteLine("Enter the Mileage of the Car: ");
                 double userAddMileage1 = double.Parse(Console.ReadLine());
                 Cars.Add(new UsedCars(userAddMake1, userAddModel1, userAddYear1, userAddPrice1, userAddMileage1));
+
+
                 return;
             }
             Console.Write("Enter the Make of the Car: ");
@@ -56,6 +58,8 @@ namespace GCDevBuildUsedCarLotLab
             Console.WriteLine();
           
             Cars.Add(new NewCars(userAddMake, userAddModel, userAddYear, userAddPrice));
+
+            ListCars();
 
         }
         
@@ -75,6 +79,10 @@ namespace GCDevBuildUsedCarLotLab
             int userRemoveCar = int.Parse(Console.ReadLine());
            
             Console.WriteLine($"This {Cars[userRemoveCar - 1].Make} is yours :D");
+            Console.WriteLine("Please enter your email address: ");
+            string userEmail = Console.ReadLine();
+            Console.WriteLine($"Thank you we will send you invoice to: {userEmail}");
+            Console.WriteLine();
             Cars.RemoveAt(userRemoveCar - 1);
 
         }
